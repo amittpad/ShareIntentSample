@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShareIntentSample</string>
+    <string name="text_show_bottom_sheet_dialog">Show Bottom Sheet Dialog</string>
+</resources>
